@@ -1,19 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+The end of this Quizzler app project included a challenge that wraps up the project.  
 
-
-# Quizzler Challenge - Starting Files
-
-- Clone this repository to your local system.
-
-- Read the docs for the package we're using:
-
-[rFluttter Alert](https://pub.dartlang.org/packages/rflutter_alert)
-
-- Follow the step by step challenges.
-
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+https://pub.dev/packages/rflutter_alert#-readme-tab-
+This was used to create the alert at the end of the game.
